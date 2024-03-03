@@ -10,7 +10,7 @@ Projeto criado com a finalidade de concluir o ciclo básico de estudos do framew
 - Entity Framework Core
 - MySQL
 
-## Modelagm do banco de dados
+## Modelagem do banco de dados
 - Nome do banco de dados
     - postsdb
 - Nome da tabela:
