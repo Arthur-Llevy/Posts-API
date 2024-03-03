@@ -1,21 +1,34 @@
 namespace api.models;
 
-public class PostsModel
+public class PostModel
 {
-	private string? content;
+	public int id { get; private set; }
+	public string content { get; set; }
 
-	public PostsModel(string content)
+
+	public PostModel(string Content)
 	{
-		this.SetContent(content);
+		this.content = Content;
 	}
 
-	public void SetContent(string content)
+	public void SetId(int Id)
 	{
-		this.content = content;
+		this.id = Id;
 	}
 
-	public string? GetContent()
+	public int GetId()
+	{
+		return this.id;
+	}
+
+	public void SetContent(string Content)
+	{
+		this.content = Content;
+	}
+
+	public string GetContent()
 	{
 		return this.content;
 	}
+	
 }

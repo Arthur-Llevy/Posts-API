@@ -57,3 +57,4 @@
 /home/arthur/Documentos/Projetos - Programação/BackEndPosts/obj/Debug/net8.0/BackEndPosts.pdb
 /home/arthur/Documentos/Projetos - Programação/BackEndPosts/obj/Debug/net8.0/BackEndPosts.genruntimeconfig.cache
 /home/arthur/Documentos/Projetos - Programação/BackEndPosts/obj/Debug/net8.0/ref/BackEndPosts.dll
+/home/arthur/Documentos/Projetos - Programação/BackEndPosts/obj/Debug/net8.0/BackEndPosts.sourcelink.json

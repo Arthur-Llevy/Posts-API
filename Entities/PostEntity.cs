@@ -14,6 +14,16 @@ public class PostEntity
 
 	public PostEntity(string content)
 	{
-		this.content = content;
+		this.SetContent(content);
+	}
+
+	public void SetContent(string Content)
+	{
+		this.content = Content;
+	}
+
+	public string GetContent()
+	{
+		return this.content;
 	}
 }
