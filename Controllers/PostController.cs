@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using api.entities;
 
-// Delete methods aren't working !!
-
 namespace api.controllers;
 
 [Route("[controller]")]
